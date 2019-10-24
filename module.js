@@ -31,9 +31,6 @@ function process(block) {
 		phase %= 1
 		// Convert phase to sine output
 		block.outputs[0][i] = Math.sin(2 * Math.PI * phase) * 5
-		block.outputs[1][i] = Math.sin(2 * Math.PI * phase) * 5
-	}
-
-
-
+		
+	} 
 }
