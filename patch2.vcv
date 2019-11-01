@@ -192,7 +192,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.784000993
+          "value": 0.307000995
         },
         {
           "id": 1,
@@ -264,7 +264,6 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 23,
       "data": {
         "format": "wav",
         "path": "/Users/mp/gitShow1/test.wav",
@@ -274,21 +273,7 @@
         "bitRate": 320000
       },
       "pos": [
-        85,
-        1
-      ]
-    },
-    {
-      "id": 23,
-      "plugin": "Core",
-      "version": "1.1.5",
-      "model": "Notes",
-      "params": [],
-      "leftModuleId": 24,
-      "rightModuleId": 22,
-      "text": "recording! this little module simplifies things so we don't have to use jack+daw\n\nremember to save the recording to the git repo, but don't let it be larger than 20MB~",
-      "pos": [
-        69,
+        76,
         1
       ]
     },
@@ -331,7 +316,6 @@
           "value": 0.0
         }
       ],
-      "rightModuleId": 23,
       "data": {
         "lissajous": 0,
         "external": 0
@@ -521,14 +505,6 @@
       "color": "#0c8e15"
     },
     {
-      "id": 319,
-      "outputModuleId": 25,
-      "outputId": 6,
-      "inputModuleId": 17,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
       "id": 320,
       "outputModuleId": 25,
       "outputId": 7,
@@ -599,6 +575,14 @@
       "inputModuleId": 24,
       "inputId": 1,
       "color": "#c9b70e"
+    },
+    {
+      "id": 319,
+      "outputModuleId": 25,
+      "outputId": 6,
+      "inputModuleId": 17,
+      "inputId": 0,
+      "color": "#c91847"
     }
   ]
 }
