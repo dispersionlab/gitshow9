@@ -6,4 +6,10 @@ module2.js is logical comparator. It takes signal inputs in Inputs 1 & 2, and ou
 
 ## Score:
 
-This is a new repo, so the score hasn't been written yet... See the file *markdown_examples.md* for help with formatting in markdown, including embedding images, links, tables, etc. 
+Build a rhythmic pattern using the highlighted controls - culminating in noise morphing into tone.
+
+<img src="https://i.imgur.com/PRBBGu9.png">
+
+Lfo-1 freq results in speed changes.<br/>
+The left random rate results in “aftershocks” of rhythmic content.<br/>
+VCF freq results in higher overtone-like content

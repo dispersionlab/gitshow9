@@ -30,6 +30,7 @@ function process(block) {
 
     // the 1st knob on the prototype module will affect the biasing between input 1 or 2    
     var bias = block.knobs[0] * 2 - 1
+    
     // bias_cv += bias * Math.pow(2, block.inputs[2][0]);
     if(bias < 0.){
         mix = clampNumber( ((Math.abs(bias) * min) + (bias * max) * max * block.inputs[2][0]), -10., 10.)
