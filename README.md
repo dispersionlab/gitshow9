@@ -14,7 +14,11 @@ We've tested these instructions to take about 1 hour to follow for the first tim
 ### First-time participants, do this first:
 1. Sign up for a free account with VCV Rack. [https://vcvrack.com/](https://vcvrack.com/) This is necessary to acquire the free 'prototype' plugin, which we use for developing code. 
 2. Download and install VCV rack. [https://vcvrack.com/](https://vcvrack.com/)
-3. Add the free Prototype plugin to your account [https://vcvrack.com/plugins.html#prototype%20VCV](https://vcvrack.com/plugins.html#prototype%20VCV)
+3. Open the [VCV Rack Plugin Manager](https://vcvrack.com/plugins.html) and add the following free plugins:
+	- VCV Prototype
+	- VCV Recorder
+	- Befaco
+
 
 
 ## the gitshow process
@@ -63,7 +67,7 @@ Gitshow runs sessions twice per month, and each session lasts ~2 weeks. You are 
 9. When you're done, make your last commit, and then tag your commit with your session number and a short description:
 
 	1. Commands:
-
+	
 		```shell
 		git add .
 		git commit -m "commit message"
