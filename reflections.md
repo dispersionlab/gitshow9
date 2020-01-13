@@ -1,5 +1,5 @@
 ### module2 description
-module2.js is logical comparator. It takes signal inputs in Inputs 1 & 2, and outputs the Max, Min, Mix of the two signals out Outputs 1, 2, 3, respectively. 
+module2.js is logical comparator. It takes signal inputs in Inputs 1 & 2, and outputs the Max, Min, Mix of the two signals out Outputs 1, 2, 3, respectively.
 
 - Inputs: IN1, IN2
 - Outputs: OUT1, OUT2, OUT3
@@ -31,30 +31,38 @@ VCF freq results in higher overtone-like content
 >The other sounds suddenly disappeared, and the remaining beeping sounds remained to an end.
 
 git commit -am "beginning to reflect on the score and recording"
-## Score deatale:
+# Score Detail
 
+######Visualization of sound, 15 seconds per line.
 <img src= "https://drive.google.com/uc?export=view&id=1pPS8yLB9XVKNuwFIQmaYykhDu7n7IkEv">
 
-Wavy is similar to the sound of some kind of spring, which keeps the pattern until the end.
+<br><br>
+At start, Wavy is similar to the sound of some kind of spring, which keeps the pattern until the end. The interval is about 3 seconds, and it clearly lasts for one minute. First, the right channel starts ringing, then both sides start ringing. The sound is getting stronger.
+
 > Wavy is similar to the sound of some kind of spring, which keeps the pattern until the end.
 
-Something similar to the sound of knocking on the floor in an open place, a bit like footsteps, gradually becoming stronger with the echo. The sound of tapping also becomes like a flap.
->Something similar to the sound of knocking on the floor in an open place, a bit like footsteps, gradually becoming stronger with the echo. The sound of tapping also becomes like a flap.
+Around 0:20 Something similar to the sound of knocking on the floor in an open place, a bit like footsteps, gradually becoming stronger with the echo. The sound of tapping also becomes like a flap. After the sound becomes stronger, it becomes a bit like an explosion sound, producing a sound explosion at the end of the spring sound.
 
-The tapping sound gradually became faster, but irregular.
+>Something similar to the sound of knocking on the floor in an open place, a bit like footsteps, gradually becoming stronger with the echo. The sound of tapping also becomes like a flap.
 >The tapping sound gradually became faster, but irregular.
 
-Gradually more and more noise appeared in the background.
+After 1 min Gradually, more and more noise appeared in the background.It seems that the old-fashioned microwave oven breaks the electromagnetic sound.
+
 >Gradually more and more noise appeared in the background.
 
-The tapping sound suddenly became regular. Tap it and stop.
+Around 1 min 10s, The tapping sound suddenly became regular. Tap it and stop. The noise gradually becomes quieter.
+
 >The tapping sound suddenly became regular. Tap it and stop.
 
-The noise is getting louder, like "hum, hum, hum", and a bit like the noise of an airplane.
+Around the 20s  The tapping sound gradually became faster but irregular. It make people feels rushed.
+At 1 min 30s, the noise is getting louder, like "hum, hum, hum," and a bit like the noise of an airplane. The electromagnetic sound like the one mentioned above has reached its some kind limit.
+
 >The noise is getting louder, like "hum, hum, hum", and a bit like the noise of an airplane.
 
-The humming tone gradually increased, turning into a beeping sound with a regular pause in the middle.
+~1:50 The humming tone gradually increased, turning into a beeping sound with a regular pause in the middle. It sounds like some kind of alarm.
+
 >The humming tone gradually increased, turning into a beeping sound with a regular pause in the middle.
 
-The other sounds suddenly disappeared, and the remaining beeping sounds remained to an end.
+At 2min The other sounds suddenly disappeared, and the remaining beeping sounds remained to an end.
+
 >The other sounds suddenly disappeared, and the remaining beeping sounds remained to an end.
