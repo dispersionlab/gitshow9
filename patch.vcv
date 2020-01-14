@@ -18,7 +18,7 @@
         }
       },
       "pos": [
-        56,
+        52,
         0
       ]
     },
@@ -50,7 +50,7 @@
         }
       ],
       "pos": [
-        45,
+        35,
         0
       ]
     },
@@ -85,19 +85,6 @@
       "pos": [
         20,
         1
-      ]
-    },
-    {
-      "id": 8,
-      "plugin": "Core",
-      "version": "1.1.6",
-      "model": "Notes",
-      "params": [],
-      "leftModuleId": 29,
-      "text": "patch instructions:\n\n1. Choose an audio driver and device in the AUDIO-8 module.\n\n2. Drag knobs up/down. Hold Ctrl (Cmd on Mac) while dragging to fine-tune. Right-click knobs to edit, or double-click to initialize.\n\n3. Drag ports to create and move 3ables. Stack multiple cables on outputs by holding Ctrl (Cmd on Mac) and dragging from an output.\n\n4. Right-click on an empty rack space to add new modules.",
-      "pos": [
-        72,
-        0
       ]
     },
     {
@@ -245,7 +232,7 @@
         },
         {
           "id": 2,
-          "value": -2.33000588
+          "value": -1.79000568
         },
         {
           "id": 3,
@@ -264,6 +251,7 @@
           "value": 0.0
         }
       ],
+      "rightModuleId": 40,
       "pos": [
         0,
         0
@@ -284,7 +272,6 @@
           "value": 0.0
         }
       ],
-      "rightModuleId": 8,
       "data": {
         "format": "wav",
         "path": "C:\\Users\\Zhouyang Lu\\gitshow9/recording2.wav",
@@ -294,7 +281,7 @@
         "bitRate": 320000
       },
       "pos": [
-        67,
+        68,
         0
       ]
     },
@@ -337,6 +324,7 @@
           "value": 0.0
         }
       ],
+      "rightModuleId": 43,
       "data": {
         "lissajous": 0,
         "external": 0
@@ -369,8 +357,9 @@
           "value": 0.505500197
         }
       ],
+      "leftModuleId": 42,
       "pos": [
-        25,
+        20,
         0
       ]
     },
@@ -382,7 +371,7 @@
       "params": [
         {
           "id": 0,
-          "value": -2.24884939
+          "value": -3.98289514
         },
         {
           "id": 1,
@@ -397,9 +386,10 @@
           "value": 1.0
         }
       ],
+      "leftModuleId": 27,
       "rightModuleId": 42,
       "pos": [
-        14,
+        10,
         0
       ]
     },
@@ -427,8 +417,9 @@
         }
       ],
       "leftModuleId": 40,
+      "rightModuleId": 32,
       "pos": [
-        19,
+        15,
         0
       ]
     },
@@ -440,7 +431,7 @@
       "params": [
         {
           "id": 0,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 1,
@@ -455,9 +446,11 @@
           "value": 0.505500197
         }
       ],
+      "leftModuleId": 30,
+      "rightModuleId": 45,
       "pos": [
-        19,
-        2
+        65,
+        1
       ]
     },
     {
@@ -468,11 +461,11 @@
       "params": [
         {
           "id": 0,
-          "value": -7.09221792
+          "value": -8.96578407
         },
         {
           "id": 1,
-          "value": 0.0720001757
+          "value": 0.0
         },
         {
           "id": 2,
@@ -483,10 +476,9 @@
           "value": 1.0
         }
       ],
-      "rightModuleId": 45,
       "pos": [
-        2,
-        2
+        80,
+        1
       ]
     },
     {
@@ -497,11 +489,11 @@
       "params": [
         {
           "id": 0,
-          "value": -5.55748653
+          "value": -8.96578407
         },
         {
           "id": 1,
-          "value": 0.0399999432
+          "value": 0.0
         },
         {
           "id": 2,
@@ -512,10 +504,10 @@
           "value": 1.0
         }
       ],
-      "leftModuleId": 44,
+      "leftModuleId": 43,
       "pos": [
-        7,
-        2
+        73,
+        1
       ]
     }
   ],
