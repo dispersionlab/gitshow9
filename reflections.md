@@ -45,3 +45,5 @@ The random nodes are interesting to play, and add some interesting texture. They
 Adjusting the spring reverbs does something interesting. When changing them from entirely the 'wet' signal to a 50/50 split, the noise actually becomes more intense. Likely because the signal going into the downsampling module is getting a more 'full' bandwidth that it is crushing down.
 
 Something interesting is that there is no stereo aspect to this patch, it is all coming from a single channel. This is something I'd like to change, as it seems like this would benefit from having some stereo separation added to it.
+
+More odd is that the recording was only  pulling from the first two channels of the mixer, leaving up to half the piece being unrecorded in the documentation. This may have been an oversight, as it isn't mentioned in the documentation, but regardless it is interesting sonically.
