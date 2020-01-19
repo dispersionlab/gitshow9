@@ -25,3 +25,11 @@ There is a pause in the blast, but it is harder to notice because of the amount 
 The sound continues until  ~1:04 where it rails off, and the buzzer can be heard a final time. The trailing off is like an echo fading off in the distance.
 
 # Notes
+
+I get a strong Nine Inch Nails vibe from this, it may also be because I've been listening to more industrial lately, but I almost want to give it more of a fast paced beat. The sounds already work on their own, all I would really need to do is add in more of a beat.
+
+I particularly like the crushed spring sound. I find it really compelling and aggressive. I think I'm going to work with that more, and see what I can create with it. My instinct with that is to keep close to the original more than I did last time, and keep the number of modules down this time.
+
+The score is interestingly written. I did see fragments of the old one included, and it seems to be based on the language of the old one. I like the inclusion of a visualization of the audio file, I'll have to figure out how you do that before I submit this.
+
+The past tense of the score is interesting. The parts that seem more vague actually feel more interesting to me. The hard rules seem a bit restrictive to me., but I'm writing this before I actually use the instrument, which is most of that process. The previous score I had to work with was 3 lines. I thought I liked that better, but the ambiguity of it could be frustrating.
