@@ -33,3 +33,15 @@ I particularly like the crushed spring sound. I find it really compelling and ag
 The score is interestingly written. I did see fragments of the old one included, and it seems to be based on the language of the old one. I like the inclusion of a visualization of the audio file, I'll have to figure out how you do that before I submit this.
 
 The past tense of the score is interesting. The parts that seem more vague actually feel more interesting to me. The hard rules seem a bit restrictive to me., but I'm writing this before I actually use the instrument, which is most of that process. The previous score I had to work with was 3 lines. I thought I liked that better, but the ambiguity of it could be frustrating.
+
+# Performance Notes
+
+The instrument is interesting to play, with the main source of control for tempo being an LFO that everything in the arrangement is driven from. Increasing the rate of the LFO increases the tempo of the piece.
+
+The module is confusing, and much more advanced than the one I had worked with previously. It appears to be where the compression and downsampling is coming from. What I was attributing to the industrial sound before seems to be caused by this. I might try to change this as little as possible, if at all.
+
+The random nodes are interesting to play, and add some interesting texture. They could almost be tuned to create a weird form of chord if one had enough patience to do so. I'm not implying that I do, I would rather just modulate a VCO.
+
+Adjusting the spring reverbs does something interesting. When changing them from entirely the 'wet' signal to a 50/50 split, the noise actually becomes more intense. Likely because the signal going into the downsampling module is getting a more 'full' bandwidth that it is crushing down.
+
+Something interesting is that there is no stereo aspect to this patch, it is all coming from a single channel. This is something I'd like to change, as it seems like this would benefit from having some stereo separation added to it.
