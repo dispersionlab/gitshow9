@@ -44,7 +44,7 @@
         },
         {
           "id": 3,
-          "value": 0.094000265
+          "value": 0.412000299
         },
         {
           "id": 4,
@@ -226,6 +226,7 @@
         }
       ],
       "leftModuleId": 66,
+      "rightModuleId": 71,
       "pos": [
         7,
         1
@@ -251,7 +252,7 @@
       "data": {
         "format": "wav",
         "path": "C:\\Users\\Zhouyang Lu\\gitshow9/recording2.wav",
-        "incrementPath": true,
+        "incrementPath": false,
         "sampleRate": 44100,
         "depth": 16,
         "bitRate": 320000
@@ -569,7 +570,7 @@
         },
         {
           "id": 18,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 19,
@@ -585,11 +586,11 @@
         },
         {
           "id": 22,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 23,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 24,
@@ -872,11 +873,11 @@
         },
         {
           "id": 3,
-          "value": 0.0
+          "value": 0.254999995
         },
         {
           "id": 4,
-          "value": 0.0
+          "value": 0.651000082
         },
         {
           "id": 5,
@@ -1100,6 +1101,43 @@
       "leftModuleId": 68,
       "pos": [
         99,
+        1
+      ]
+    },
+    {
+      "id": 71,
+      "plugin": "AmalgamatedHarmonics",
+      "version": "1.0.4",
+      "model": "Arp32",
+      "params": [
+        {
+          "id": 0,
+          "value": 4.0
+        },
+        {
+          "id": 1,
+          "value": 3.0
+        },
+        {
+          "id": 2,
+          "value": 4.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 27,
+      "data": {
+        "gateMode": 0,
+        "repeatMode": false
+      },
+      "pos": [
+        17,
         1
       ]
     }
@@ -1386,22 +1424,6 @@
       "color": "#0c8e15"
     },
     {
-      "id": 478,
-      "outputModuleId": 42,
-      "outputId": 0,
-      "inputModuleId": 4,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
-      "id": 479,
-      "outputModuleId": 45,
-      "outputId": 0,
-      "inputModuleId": 4,
-      "inputId": 1,
-      "color": "#0986ad"
-    },
-    {
       "id": 480,
       "outputModuleId": 58,
       "outputId": 6,
@@ -1440,14 +1462,6 @@
       "inputModuleId": 66,
       "inputId": 2,
       "color": "#0986ad"
-    },
-    {
-      "id": 490,
-      "outputModuleId": 66,
-      "outputId": 0,
-      "inputModuleId": 55,
-      "inputId": 7,
-      "color": "#c91847"
     },
     {
       "id": 491,
@@ -1560,6 +1574,54 @@
       "inputModuleId": 67,
       "inputId": 3,
       "color": "#0986ad"
+    },
+    {
+      "id": 490,
+      "outputModuleId": 66,
+      "outputId": 0,
+      "inputModuleId": 71,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 507,
+      "outputModuleId": 71,
+      "outputId": 0,
+      "inputModuleId": 55,
+      "inputId": 7,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 508,
+      "outputModuleId": 50,
+      "outputId": 4,
+      "inputModuleId": 71,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 479,
+      "outputModuleId": 45,
+      "outputId": 0,
+      "inputModuleId": 56,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 509,
+      "outputModuleId": 56,
+      "outputId": 3,
+      "inputModuleId": 4,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 478,
+      "outputModuleId": 42,
+      "outputId": 0,
+      "inputModuleId": 4,
+      "inputId": 0,
+      "color": "#c91847"
     }
   ]
 }
