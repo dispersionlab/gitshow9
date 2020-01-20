@@ -47,3 +47,6 @@ Adjusting the spring reverbs does something interesting. When changing them from
 Something interesting is that there is no stereo aspect to this patch, it is all coming from a single channel. This is something I'd like to change, as it seems like this would benefit from having some stereo separation added to it.
 
 More odd is that the recording was only  pulling from the first two channels of the mixer, leaving up to half the piece being unrecorded in the documentation. This may have been an oversight, as it isn't mentioned in the documentation, but regardless it is interesting sonically.
+
+# Additional Notes
+I would have loved to include the visualization as a component, but I can't seem to figure out how to do so. The previous reflections.md doesn't have any information from what I've seen. I'm going to keep looking, but I may commit this without the visual.

@@ -1,5 +1,4 @@
-<img src= "https://drive.google.com/uc?export=view&id=1V_YOUSdHdZDggCATyfudO_lTWHjKEX8P">
-Visualization of the recording. 15 seconds per line.
+
 
 # Score
 
@@ -12,7 +11,7 @@ Mix Number | Function
 Mix 1 | Quiet percussive sound, raspy rising sound is prominent.
 Mix 2 | Very deep, echoing percussive sound.
 Mix 3 | Noise on beat, for giving the percussion a little more dirt.
-Mix 4 | A echoing, warbling percussion sound, with a slight splash to it. Changes volume drastically, be careful with the levels on this.
+Mix 4 | A echoing, warbling percussion sound, with a slight splash to it. Changes volume drastically..
 Mix 5 | The melodic lead section.
 Mix 6 | Drone bass section.
 
