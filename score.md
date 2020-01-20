@@ -19,17 +19,17 @@ Mix 6 | Drone bass section.
 The entire score can be played just by adjusting the mixer, but great things come from experimentation.
 
 ## Stage 1
-In the first stage of the piece, experiment and play with the beat, and the rhythm. Use the clock to change the tempo and find your speed with it. The rate on the 3rd random module will allow for significant adjustment of the percussion as well.
+The first stage will start with a simpler beat, and the melodic lead part. The lead should have some amount of filter applied to it, to make it more subdued. As the part goes on, add more of the percussive sounds from the first 4 channels, mixing them together to find their sound.
 
 This stage should last for about a third of the piece.
 
 ## Stage 2
-This stage is about the lead section. Bring it into play by adjusting the mix. The frequency is random, but you can control roughly where it will land. Adjust the frequency CV and the drive on the filter to suit. Change the key it is being quantized in.
+This stage is about the lead section. Bring it to the front, and adjust the filter accordingly to bring it to a more aggressive state. Lower the percussion sounds so they fall into the background and let the lead breathe. Change the sounds coming from it, and find its place in the mixture.
 
 This stage should last for a little over a third of the piece.
 
 ## Stage 3
-Integrate the drone bass into the track now, use it to fill out the track, and bring the level of the percussion up. Keep pushing the percussion until it takes over most of the track. When nearing the end of the track, cut all sound but the drone bass. Keep that going for a bit, then fade out the bass as well.
+Integrate the drone bass into the track now, use it to fill out the track, and bring the level of the percussion up. Keep pushing the percussion until it takes over most of the track. When nearing the end of the track, cut all sound but the drone bass. Keep that going for a bit, cut the bass out as well.
 
 This stage should last for the remainder of the piece. With the single drone bass taking up roughly 5-10 seconds of a 90 second recording
 
