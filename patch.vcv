@@ -251,7 +251,7 @@
       "rightModuleId": 30,
       "data": {
         "format": "wav",
-        "path": "C:\\Users\\Zhouyang Lu\\gitshow9/recording2.wav",
+        "path": "F:\\Dropbox\\Grad School\\YorkU\\VSL\\gitshow9/recording.wav",
         "incrementPath": false,
         "sampleRate": 44100,
         "depth": 16,
@@ -502,7 +502,7 @@
         },
         {
           "id": 1,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 2,
@@ -510,11 +510,11 @@
         },
         {
           "id": 3,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 4,
-          "value": 0.0
+          "value": 0.357000887
         },
         {
           "id": 5,
@@ -526,7 +526,7 @@
         },
         {
           "id": 7,
-          "value": 0.0
+          "value": 0.721501291
         },
         {
           "id": 8,
@@ -570,7 +570,7 @@
         },
         {
           "id": 18,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 19,
@@ -578,7 +578,7 @@
         },
         {
           "id": 20,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 21,
@@ -586,19 +586,19 @@
         },
         {
           "id": 22,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 23,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 24,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 25,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 26,
@@ -688,11 +688,11 @@
         },
         {
           "id": 1,
-          "value": 0.54900068
+          "value": 0.622501373
         },
         {
           "id": 2,
-          "value": 0.224999964
+          "value": 0.595500827
         },
         {
           "id": 3,
@@ -1061,7 +1061,7 @@
         },
         {
           "id": 1,
-          "value": 0.811000347
+          "value": 0.907000124
         }
       ],
       "leftModuleId": 47,
@@ -1342,14 +1342,6 @@
       "inputModuleId": 55,
       "inputId": 2,
       "color": "#0986ad"
-    },
-    {
-      "id": 464,
-      "outputModuleId": 58,
-      "outputId": 5,
-      "inputModuleId": 58,
-      "inputId": 3,
-      "color": "#0c8e15"
     },
     {
       "id": 467,
