@@ -52,75 +52,8 @@
         }
       ],
       "leftModuleId": 32,
-      "rightModuleId": 17,
       "pos": [
         63,
-        0
-      ]
-    },
-    {
-      "id": 17,
-      "plugin": "VCV-Prototype",
-      "version": "1.2.0",
-      "model": "Prototype",
-      "params": [
-        {
-          "id": 0,
-          "value": 0.647499919
-        },
-        {
-          "id": 1,
-          "value": 0.0
-        },
-        {
-          "id": 2,
-          "value": 0.0
-        },
-        {
-          "id": 3,
-          "value": 1.0
-        },
-        {
-          "id": 4,
-          "value": 0.0
-        },
-        {
-          "id": 5,
-          "value": 0.0
-        },
-        {
-          "id": 6,
-          "value": 0.0
-        },
-        {
-          "id": 7,
-          "value": 0.0
-        },
-        {
-          "id": 8,
-          "value": 0.0
-        },
-        {
-          "id": 9,
-          "value": 0.0
-        },
-        {
-          "id": 10,
-          "value": 0.0
-        },
-        {
-          "id": 11,
-          "value": 0.0
-        }
-      ],
-      "leftModuleId": 4,
-      "rightModuleId": 47,
-      "data": {
-        "path": "/Users/roryhoy/Documents/gitShow/gitShow2/module2.js",
-        "script": "\nconfig.frameDivider = 1\n// set buffersize of module\nconfig.bufferSize = 16\n\nvar phase = 0\nvar amp = 1\nvar mix;\nvar bias_cv\n// clamp a number to within a range\nlet clampNumber = (num, a, b) => Math.max(Math.min(num, Math.max(a, b)), Math.min(a, b));\n\n// this is where the synthesis calculation occurs\nfunction process(block) {\n    // block.knobs[0] = 0.5\n\t// Knob ranges from -5 to 5 octaves\n\t// var pitch = block.knobs[0] * 10 - 5\n\t// Input follows 1V/oct standard\n    // pitch += block.inputs[0][0]\n    \n    // input 2 on the prototype module corresponds to the 2nd index of the block.inputs array, i.e. block.inputs[1]\n    amp = block.inputs[1][0]\n\n    // compare the amplitude of the two signal inputs\n    compare = [block.inputs[0][0], block.inputs[1][0]]\n    // get the max\n    max = Math.max(...compare)\n    // get the min\n    min = Math.min(...compare)\n\n    // the 1st knob on the prototype module will affect the biasing between input 1 or 2    \n    var bias = block.knobs[0] * 2 - 1\n    \n    // bias_cv += bias * Math.pow(2, block.inputs[2][0]);\n    if(bias < 0.){\n        mix = clampNumber( ((Math.abs(bias) * min) + (bias * max) * max * block.inputs[2][0]), -10., 10.)\n    } else if (bias > 0.){\n        mix = clampNumber( ((bias * max) + ((bias * -1) * min) * min * block.inputs[2][0]), -10., 10.)\n    }\n\n    var freq = 1\n\t//display(\"Freq: \" + freq.toFixed(3) + \" Hz\")\n\n\t// Set all samples in output buffer: this is where each sample is calculated, hence the for...loop. \n\tvar deltaPhase = config.frameDivider * block.sampleTime * freq\n\tfor (var i = 0; i < block.bufferSize; i++) {\n\t\t// Accumulate phase\n\t\tphase += deltaPhase\n\t\t// Wrap phase around range [0, 1]\n        phase %= 1\n        // this is like the console.log output of the prototype module. unfortunately it only displays a single concatenated string. \n        display(\"Logic Module: max, min, mix\" + mix)\n        \n\t\t// Convert phase to sine output\n        // block.outputs[0][i] = Math.sin(2 * Math.PI * phase) * 5 * amp\n        block.outputs[0][i] = max\n        block.outputs[1][i] = min\n        block.outputs[2][i] = mix\n\t}\n}\n"
-      },
-      "pos": [
-        71,
         0
       ]
     },
@@ -501,31 +434,31 @@
         },
         {
           "id": 1,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 2,
-          "value": 0.0075000003
+          "value": 0.879001439
         },
         {
           "id": 3,
-          "value": 0.871500254
+          "value": 0.649500549
         },
         {
           "id": 4,
-          "value": 0.0
+          "value": 0.343500137
         },
         {
           "id": 5,
-          "value": 0.0104999999
+          "value": 0.682499826
         },
         {
           "id": 6,
-          "value": 0.818499267
+          "value": 0.0
         },
         {
           "id": 7,
-          "value": 0.0
+          "value": 0.682501674
         },
         {
           "id": 8,
@@ -569,7 +502,7 @@
         },
         {
           "id": 18,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 19,
@@ -577,11 +510,11 @@
         },
         {
           "id": 20,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 21,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 22,
@@ -589,7 +522,7 @@
         },
         {
           "id": 23,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 24,
@@ -621,7 +554,7 @@
         },
         {
           "id": 31,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 32,
@@ -714,7 +647,6 @@
           "value": 1.0
         }
       ],
-      "leftModuleId": 17,
       "rightModuleId": 69,
       "pos": [
         86,
@@ -1158,14 +1090,6 @@
       "color": "#c91847"
     },
     {
-      "id": 358,
-      "outputModuleId": 32,
-      "outputId": 0,
-      "inputModuleId": 17,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
       "id": 417,
       "outputModuleId": 25,
       "outputId": 8,
@@ -1339,30 +1263,6 @@
       "outputId": 0,
       "inputModuleId": 46,
       "inputId": 0,
-      "color": "#0986ad"
-    },
-    {
-      "id": 426,
-      "outputModuleId": 17,
-      "outputId": 0,
-      "inputModuleId": 47,
-      "inputId": 0,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 390,
-      "outputModuleId": 17,
-      "outputId": 2,
-      "inputModuleId": 47,
-      "inputId": 2,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 415,
-      "outputModuleId": 43,
-      "outputId": 0,
-      "inputModuleId": 17,
-      "inputId": 2,
       "color": "#0986ad"
     },
     {
@@ -1588,6 +1488,22 @@
       "inputModuleId": 46,
       "inputId": 20,
       "color": "#c91847"
+    },
+    {
+      "id": 358,
+      "outputModuleId": 32,
+      "outputId": 0,
+      "inputModuleId": 47,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 415,
+      "outputModuleId": 43,
+      "outputId": 0,
+      "inputModuleId": 47,
+      "inputId": 2,
+      "color": "#0986ad"
     }
   ]
 }
