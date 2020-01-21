@@ -11,8 +11,8 @@
       "rightModuleId": 29,
       "data": {
         "audio": {
-          "driver": 8,
-          "deviceName": "Speakers (USB Audio CODEC )",
+          "driver": 5,
+          "deviceName": "Apple Inc.: Built-in Output",
           "offset": 0,
           "maxChannels": 8,
           "sampleRate": 44100,
@@ -492,7 +492,7 @@
     {
       "id": 46,
       "plugin": "squinkylabs-plug1",
-      "version": "1.0.6",
+      "version": "1.0.5",
       "model": "squinkylabs-mix8",
       "params": [
         {
@@ -509,7 +509,7 @@
         },
         {
           "id": 3,
-          "value": 0.0
+          "value": 0.871500254
         },
         {
           "id": 4,
@@ -521,7 +521,7 @@
         },
         {
           "id": 6,
-          "value": 1.0
+          "value": 0.818499267
         },
         {
           "id": 7,
@@ -569,7 +569,7 @@
         },
         {
           "id": 18,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 19,
@@ -577,11 +577,11 @@
         },
         {
           "id": 20,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 21,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 22,
@@ -589,7 +589,7 @@
         },
         {
           "id": 23,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 24,
