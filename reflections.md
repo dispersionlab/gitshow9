@@ -1,52 +1,35 @@
 
-# Score with new VCV
-><img src= "https://drive.google.com/uc?export=view&id=1V_YOUSdHdZDggCATyfudO_lTWHjKEX8P">
-recording3.wav
-Visualization of sound, 15 seconds per line.
 
->There was only one spring tone in the first time, and a spring tone and a rising tone appeared in the second time. The third rising tone became sharper, the fourth time slightly decreased, and the fifth time picked up.
+># Score
 
-A very low buzzer sound starts playing about every 6 seconds. This keeps repeating through the entire piece.
+>## Mixer Info
 
->The sound of an explosion appeared for the sixth time, and the sound of the seventh explosion strengthened, and then continued to strengthen.
+>The mixer allows for panning between right and left channels with the pan knob, as well as solo and muting of any of the input channels with the S and M buttons respectively.
 
-at 0:21 a crushed spring sound starts. Very Nine Inch Nails in the compression of it. This sound repeats at the same frequency as the low buzzer did, now taking it over entirely. The pitch seems to be operated with noise.
+>Mix Number | Function
+>--- | ---
+>Mix 1 | Quiet percussive sound, raspy rising sound is prominent.
+>Mix 2 | Very deep, echoing percussive sound.
+>Mix 3 | Noise on beat, for giving the percussion a little more dirt.
+>Mix 4 | A echoing, warbling percussion sound, with a slight splash to it. Changes volume drastically..
+>Mix 5 | The melodic lead section.
+>Mix 6 | Drone bass section.
 
-The sound continues to grow, the reverb holding for longer, and getting louder every repeat.
+>The entire score can be played just by adjusting the mixer, but great things come from experimentation.
 
->About one minute, sound of continuous blasting. After a pause, the continuous blasting again produced a huge noise.
+>## Stage 1
+>The first stage will start with a simpler beat, and the melodic lead part. The lead should have some amount of filter applied to it, to make it more subdued. As the part goes on, add more of the percussive sounds from the first 4 channels, mixing them together to find their sound.
 
->At the end are the echoes of the blast and fragmented noise.
+>This stage should last for about a third of the piece.
 
-At 0:58, the sound starts running continuously, and louder than before, the pitch is randomized each time the sound is triggered it seems.
+>## Stage 2
+>This stage is about the lead section. Bring it to the front, and adjust the filter accordingly to bring it to a more aggressive state. Lower the percussion sounds so they fall into the background and let the lead breathe. Change the sounds coming from it, and find its place in the mixture.
 
-There is a pause in the blast, but it is harder to notice because of the amount of echo and reverb that is on the sound. It almost carries over completely.
+>This stage should last for a little over a third of the piece.
 
-The sound continues until  ~1:04 where it rails off, and the buzzer can be heard a final time. The trailing off is like an echo fading off in the distance.
+>## Stage 3
+>Integrate the drone bass into the track now, use it to fill out the track, and bring the level of the percussion up. Keep pushing the percussion until it takes over most of the track. When nearing the end of the track, cut all sound but the drone bass. Keep that going for a bit, cut the bass out as well.
 
-# Notes
+>This stage should last for the remainder of the piece. With the single drone bass taking up roughly 5-10 seconds of a 90 second recording
 
-I get a strong Nine Inch Nails vibe from this, it may also be because I've been listening to more industrial lately, but I almost want to give it more of a fast paced beat. The sounds already work on their own, all I would really need to do is add in more of a beat.
-
-I particularly like the crushed spring sound. I find it really compelling and aggressive. I think I'm going to work with that more, and see what I can create with it. My instinct with that is to keep close to the original more than I did last time, and keep the number of modules down this time.
-
-The score is interestingly written. I did see fragments of the old one included, and it seems to be based on the language of the old one. I like the inclusion of a visualization of the audio file, I'll have to figure out how you do that before I submit this.
-
-The past tense of the score is interesting. The parts that seem more vague actually feel more interesting to me. The hard rules seem a bit restrictive to me., but I'm writing this before I actually use the instrument, which is most of that process. The previous score I had to work with was 3 lines. I thought I liked that better, but the ambiguity of it could be frustrating.
-
-# Performance Notes
-
-The instrument is interesting to play, with the main source of control for tempo being an LFO that everything in the arrangement is driven from. Increasing the rate of the LFO increases the tempo of the piece.
-
-The module is confusing, and much more advanced than the one I had worked with previously. It appears to be where the compression and downsampling is coming from. What I was attributing to the industrial sound before seems to be caused by this. I might try to change this as little as possible, if at all.
-
-The random nodes are interesting to play, and add some interesting texture. They could almost be tuned to create a weird form of chord if one had enough patience to do so. I'm not implying that I do, I would rather just modulate a VCO.
-
-Adjusting the spring reverbs does something interesting. When changing them from entirely the 'wet' signal to a 50/50 split, the noise actually becomes more intense. Likely because the signal going into the downsampling module is getting a more 'full' bandwidth that it is crushing down.
-
-Something interesting is that there is no stereo aspect to this patch, it is all coming from a single channel. This is something I'd like to change, as it seems like this would benefit from having some stereo separation added to it.
-
-More odd is that the recording was only  pulling from the first two channels of the mixer, leaving up to half the piece being unrecorded in the documentation. This may have been an oversight, as it isn't mentioned in the documentation, but regardless it is interesting sonically.
-
-# Additional Notes
-I would have loved to include the visualization as a component, but I can't seem to figure out how to do so. The previous reflections.md doesn't have any information from what I've seen. I'm going to keep looking, but I may commit this without the visual.
+>Congratulations, the track is complete.
