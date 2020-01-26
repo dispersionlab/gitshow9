@@ -2,6 +2,12 @@
 
 ># Score
 
+From the beginning of this piece reminds me of a Prodigy song I can't seem to put my finger on.  The repeated bang (0:02), starts to sound like a common output from 3rd party oscillators and tends to create an odd sounding tempo.  Would be nice to see what it would be like to cut that tempo every so often.
+
+The increased treble (0:40) livens up the piece, as a play with sounds get more dramatic and back and forth (like long wobbles), takes place thereafter.  This is nice.
+
+I am particularly fond of the ending (1:17), a sharp and dramatic end the cuts the wobbles, repeated bang, and laser sounds, resulting in a beautiful bass-rich end.
+
 >## Mixer Info
 
 >The mixer allows for panning between right and left channels with the pan knob, as well as solo and muting of any of the input channels with the S and M buttons respectively.
