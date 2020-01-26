@@ -8,6 +8,10 @@ The increased treble (0:40) livens up the piece, as a play with sounds get more 
 
 I am particularly fond of the ending (1:17), a sharp and dramatic end the cuts the wobbles, repeated bang, and laser sounds, resulting in a beautiful bass-rich end.
 
+## Amendments
+
+Changed macro oscillator's frequency knob to full giving a more digital beep sound similar to the sounds of a drunken R2D2.
+
 >## Mixer Info
 
 >The mixer allows for panning between right and left channels with the pan knob, as well as solo and muting of any of the input channels with the S and M buttons respectively.
