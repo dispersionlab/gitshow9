@@ -11,11 +11,11 @@
       "rightModuleId": 29,
       "data": {
         "audio": {
-          "driver": 5,
-          "deviceName": "Apple Inc.: Built-in Output",
+          "driver": 6,
+          "deviceName": "Speakers (Conexant SmartAudio HD)",
           "offset": 0,
           "maxChannels": 8,
-          "sampleRate": 44100,
+          "sampleRate": 8000,
           "blockSize": 512
         }
       },
@@ -32,19 +32,19 @@
       "params": [
         {
           "id": 0,
-          "value": 1.0
+          "value": 0.834999323
         },
         {
           "id": 1,
-          "value": 0.522500038
+          "value": 0.407000184
         },
         {
           "id": 2,
-          "value": 0.539999902
+          "value": 0.542999625
         },
         {
           "id": 3,
-          "value": -0.534999847
+          "value": -0.535000205
         },
         {
           "id": 4,
@@ -66,15 +66,15 @@
       "params": [
         {
           "id": 0,
-          "value": 0.647499919
+          "value": 0.877000332
         },
         {
           "id": 1,
-          "value": 0.5
+          "value": 0.997999489
         },
         {
           "id": 2,
-          "value": 0.0
+          "value": 0.504000306
         },
         {
           "id": 3,
@@ -140,11 +140,11 @@
         },
         {
           "id": 2,
-          "value": 0.0
+          "value": 0.0749996528
         },
         {
           "id": 3,
-          "value": 0.0710003078
+          "value": -0.0399995074
         },
         {
           "id": 4,
@@ -180,7 +180,7 @@
         },
         {
           "id": 12,
-          "value": 0.490500122
+          "value": 0.502501249
         }
       ],
       "leftModuleId": 55,
@@ -206,7 +206,7 @@
         },
         {
           "id": 2,
-          "value": 9.91900253
+          "value": 5.1130023
         },
         {
           "id": 3,
@@ -250,7 +250,7 @@
       "rightModuleId": 30,
       "data": {
         "format": "wav",
-        "path": "F:\\Dropbox\\Grad School\\YorkU\\VSL\\gitshow9/recording.wav",
+        "path": "/Users/hoveidar/Downloads/recording.wav",
         "incrementPath": false,
         "sampleRate": 44100,
         "depth": 16,
@@ -322,15 +322,15 @@
         },
         {
           "id": 1,
-          "value": 1.0
+          "value": 0.925000012
         },
         {
           "id": 2,
-          "value": 1.0
+          "value": 0.441999495
         },
         {
           "id": 3,
-          "value": 0.0
+          "value": 0.584500134
         }
       ],
       "leftModuleId": 43,
@@ -378,11 +378,11 @@
       "params": [
         {
           "id": 0,
-          "value": 0.720956922
+          "value": 0.0632188022
         },
         {
           "id": 1,
-          "value": 0.414000183
+          "value": 0.437999904
         },
         {
           "id": 2,
@@ -408,19 +408,19 @@
       "params": [
         {
           "id": 0,
-          "value": 0.492000043
+          "value": 0.00150000001
         },
         {
           "id": 1,
-          "value": 1.0
+          "value": 0.943000078
         },
         {
           "id": 2,
-          "value": 1.0
+          "value": 0.467999965
         },
         {
           "id": 3,
-          "value": 0.0
+          "value": 0.573000371
         }
       ],
       "leftModuleId": 25,
@@ -438,7 +438,7 @@
       "params": [
         {
           "id": 0,
-          "value": -8.96578407
+          "value": 3.17254019
         },
         {
           "id": 1,
@@ -467,11 +467,11 @@
       "params": [
         {
           "id": 0,
-          "value": 3.11274409
+          "value": 6.12241364
         },
         {
           "id": 1,
-          "value": 0.0399999432
+          "value": 0.621999979
         },
         {
           "id": 2,
@@ -497,7 +497,7 @@
       "params": [
         {
           "id": 0,
-          "value": 1.0
+          "value": 0.989499629
         },
         {
           "id": 1,
@@ -505,27 +505,27 @@
         },
         {
           "id": 2,
-          "value": 0.0
+          "value": 0.291000098
         },
         {
           "id": 3,
-          "value": 0.0
+          "value": 0.421500325
         },
         {
           "id": 4,
-          "value": 0.0
+          "value": 0.367500246
         },
         {
           "id": 5,
-          "value": 0.0104999999
+          "value": 0.978000104
         },
         {
           "id": 6,
-          "value": 1.0
+          "value": 0.25150162
         },
         {
           "id": 7,
-          "value": 0.0
+          "value": 0.351000041
         },
         {
           "id": 8,
@@ -537,59 +537,59 @@
         },
         {
           "id": 10,
-          "value": 0.0
+          "value": 0.29399994
         },
         {
           "id": 11,
-          "value": 0.0
+          "value": 0.113999888
         },
         {
           "id": 12,
-          "value": 0.0
+          "value": -0.00999980886
         },
         {
           "id": 13,
-          "value": 0.0
+          "value": -0.0899999887
         },
         {
           "id": 14,
-          "value": 0.0
+          "value": 0.205000058
         },
         {
           "id": 15,
-          "value": 0.0
+          "value": 0.276000142
         },
         {
           "id": 16,
-          "value": 0.0
+          "value": -0.347999811
         },
         {
           "id": 17,
-          "value": 0.0
+          "value": -0.465000093
         },
         {
           "id": 18,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 19,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 20,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 21,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 22,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 23,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 24,
@@ -609,7 +609,7 @@
         },
         {
           "id": 28,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 29,
@@ -641,7 +641,7 @@
         },
         {
           "id": 36,
-          "value": 0.0
+          "value": 0.660999715
         },
         {
           "id": 37,
@@ -649,11 +649,11 @@
         },
         {
           "id": 38,
-          "value": 0.0
+          "value": 0.326999962
         },
         {
           "id": 39,
-          "value": 0.0
+          "value": 0.369000107
         },
         {
           "id": 40,
@@ -665,7 +665,7 @@
         },
         {
           "id": 42,
-          "value": 0.0
+          "value": 0.301000029
         }
       ],
       "leftModuleId": 69,
@@ -683,11 +683,11 @@
       "params": [
         {
           "id": 0,
-          "value": 0.590999842
+          "value": 0.359500021
         },
         {
           "id": 1,
-          "value": 0.622501373
+          "value": 0.564001024
         },
         {
           "id": 2,
@@ -699,7 +699,7 @@
         },
         {
           "id": 4,
-          "value": 1.0
+          "value": 0.773499906
         },
         {
           "id": 5,
@@ -724,7 +724,7 @@
     {
       "id": 50,
       "plugin": "DrumKit",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "model": "Gnome",
       "params": [
         {
@@ -770,7 +770,7 @@
         },
         {
           "id": 2,
-          "value": -0.718995154
+          "value": 1.0360049
         },
         {
           "id": 3,
@@ -812,11 +812,11 @@
         },
         {
           "id": 2,
-          "value": 2.84400201
+          "value": -0.427999705
         },
         {
           "id": 3,
-          "value": 0.875499487
+          "value": 0.549999177
         },
         {
           "id": 4,
@@ -860,11 +860,11 @@
       "params": [
         {
           "id": 0,
-          "value": 0.311999142
+          "value": 0.167999059
         },
         {
           "id": 1,
-          "value": 0.434999913
+          "value": 0.0659999102
         },
         {
           "id": 2,
@@ -880,15 +880,15 @@
         },
         {
           "id": 5,
-          "value": 1.0
+          "value": -0.230000123
         },
         {
           "id": 6,
-          "value": 0.0
+          "value": 0.729000151
         },
         {
           "id": 7,
-          "value": 0.215000078
+          "value": 0.047000207
         }
       ],
       "leftModuleId": 42,
@@ -918,7 +918,7 @@
       "params": [
         {
           "id": 0,
-          "value": 7.0
+          "value": 5.0
         },
         {
           "id": 1,
@@ -949,15 +949,15 @@
         },
         {
           "id": 2,
-          "value": -2.94399858
+          "value": 2.04800034
         },
         {
           "id": 3,
-          "value": 0.135000184
+          "value": 0.523500144
         },
         {
           "id": 4,
-          "value": 0.808000267
+          "value": 0.586000383
         },
         {
           "id": 5,
@@ -997,7 +997,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.779500067
+          "value": 0.84850055
         },
         {
           "id": 1,
@@ -1031,11 +1031,11 @@
       "params": [
         {
           "id": 0,
-          "value": 1.0
+          "value": 0.764500856
         },
         {
           "id": 1,
-          "value": 1.0
+          "value": 0.566500425
         }
       ],
       "leftModuleId": 47,
@@ -1061,11 +1061,11 @@
         },
         {
           "id": 2,
-          "value": -1.46600008
+          "value": -1.76299989
         },
         {
           "id": 3,
-          "value": 0.0
+          "value": 0.283499986
         },
         {
           "id": 4,
@@ -1086,23 +1086,23 @@
       "params": [
         {
           "id": 0,
-          "value": 4.0
+          "value": 0.0
         },
         {
           "id": 1,
-          "value": 3.0
+          "value": 13.0
         },
         {
           "id": 2,
-          "value": 4.0
+          "value": 1.0
         },
         {
           "id": 3,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "id": 4,
-          "value": 0.0
+          "value": 4.0
         }
       ],
       "leftModuleId": 27,
@@ -1334,14 +1334,6 @@
       "color": "#c9b70e"
     },
     {
-      "id": 431,
-      "outputModuleId": 47,
-      "outputId": 0,
-      "inputModuleId": 46,
-      "inputId": 0,
-      "color": "#0986ad"
-    },
-    {
       "id": 426,
       "outputModuleId": 17,
       "outputId": 0,
@@ -1396,14 +1388,6 @@
       "inputModuleId": 58,
       "inputId": 0,
       "color": "#0986ad"
-    },
-    {
-      "id": 484,
-      "outputModuleId": 58,
-      "outputId": 0,
-      "inputModuleId": 46,
-      "inputId": 18,
-      "color": "#c9b70e"
     },
     {
       "id": 492,
@@ -1582,6 +1566,14 @@
       "color": "#c91847"
     },
     {
+      "id": 518,
+      "outputModuleId": 54,
+      "outputId": 2,
+      "inputModuleId": 17,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
       "id": 517,
       "outputModuleId": 56,
       "outputId": 7,
@@ -1590,12 +1582,36 @@
       "color": "#c91847"
     },
     {
-      "id": 518,
-      "outputModuleId": 54,
-      "outputId": 2,
-      "inputModuleId": 17,
-      "inputId": 1,
+      "id": 484,
+      "outputModuleId": 58,
+      "outputId": 0,
+      "inputModuleId": 46,
+      "inputId": 18,
       "color": "#c9b70e"
+    },
+    {
+      "id": 431,
+      "outputModuleId": 47,
+      "outputId": 0,
+      "inputModuleId": 46,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 519,
+      "outputModuleId": 58,
+      "outputId": 2,
+      "inputModuleId": 46,
+      "inputId": 19,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 520,
+      "outputModuleId": 43,
+      "outputId": 1,
+      "inputModuleId": 46,
+      "inputId": 16,
+      "color": "#c91847"
     }
   ]
 }
