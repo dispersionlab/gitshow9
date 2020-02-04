@@ -2,28 +2,18 @@
 
 ># Score
 
-From the beginning of this piece reminds me of a Prodigy song I can't seem to put my finger on.  The repeated bang (0:02), starts to sound like a common output from 3rd party oscillators and tends to create an odd sounding tempo.  Would be nice to see what it would be like to cut that tempo every so often.
-
-The increased treble (0:40) livens up the piece, as a play with sounds get more dramatic and back and forth (like long wobbles), takes place thereafter.  This is nice.
-
-I am particularly fond of the ending (1:17), a sharp and dramatic end the cuts the wobbles, repeated bang, and laser sounds, resulting in a beautiful bass-rich end.
-
-## Amendments
-
-Changed macro oscillator's frequency knob to full giving a more digital beep sound similar to the sounds of a drunken R2D2.
-
 >## Mixer Info
 
 >The mixer allows for panning between right and left channels with the pan knob, as well as solo and muting of any of the input channels with the S and M buttons respectively.
 
 >Mix Number | Function
->--- | ---
->Mix 1 | Quiet percussive sound, raspy rising sound is prominent.
->Mix 2 | Very deep, echoing percussive sound.
->Mix 3 | Noise on beat, for giving the percussion a little more dirt.
->Mix 4 | A echoing, warbling percussion sound, with a slight splash to it. Changes volume drastically..
->Mix 5 | The melodic lead section.
->Mix 6 | Drone bass section.
+--- | ---
+Mix 1 | Quiet percussive sound, raspy rising sound is prominent.
+Mix 2 | Very deep, echoing percussive sound.
+Mix 3 | Noise on beat, for giving the percussion a little more dirt.
+Mix 4 | A echoing, warbling percussion sound, with a slight splash to it. Changes volume drastically..
+Mix 5 | The melodic lead section.
+Mix 6 | Drone bass section.
 
 >The entire score can be played just by adjusting the mixer, but great things come from experimentation.
 
@@ -43,3 +33,7 @@ Changed macro oscillator's frequency knob to full giving a more digital beep sou
 >This stage should last for the remainder of the piece. With the single drone bass taking up roughly 5-10 seconds of a 90 second recording
 
 >Congratulations, the track is complete.
+
+In the recording the sound of a melody fades in and is followed by a unclear percussive sound which gets stronger slowly until ~20 where it becomes completely clear. Melody continues along with the percussive sound. At about 00:39, as it was mentioned in the score the track enters an aggressive state which is interesting. The aggressive mixture of sounds keeps playing until they all suddenly stop and the quiet percussive sound leads us to the end of the track. The sudden stop of the tense loud repetitive sounds and bringing the listener to an almost perfect silence was a very impressive ending for me!
+
+In terms of playing the score, I honestly wasn't able to play the same track which was in the recording as it was not explicitly explained what knob should be changed during the track. I played with mixer knobs and input channels but it never ended up imitating the sounds I was listening to from recording. 
