@@ -17,19 +17,13 @@ Mix 6 | Drone bass section.
 
 The entire score can be played just by adjusting the mixer, but great things come from experimentation.
 
-## Stage 1
-The first stage will start with a simpler beat, and the melodic lead part. The lead should have some amount of filter applied to it, to make it more subdued. As the part goes on, add more of the percussive sounds from the first 4 channels, mixing them together to find their sound.
-
-This stage should last for about a third of the piece.
+##Stage 1
+In this stage, a first setup of percussion was chosen with playing with pan and volume of the first 4 knobs of the mixer and the volume of the lead melody (mixer 5) was reduced to have more emphasis on the percussion part. As song progresses, we increase the volume of mixer 3 and 4 and reduce the volume of mixer 1 and 2.
 
 ## Stage 2
-This stage is about the lead section. Bring it to the front, and adjust the filter accordingly to bring it to a more aggressive state. Lower the percussion sounds so they fall into the background and let the lead breathe. Change the sounds coming from it, and find its place in the mixture.
 
-This stage should last for a little over a third of the piece.
+In this section, percussion mixers (i.e., 1-4) were given a less volume dominance and volume of the mixer 5 as the lead was increased. Meanwhile, pan and also frequency of its input was being changed to give us some variation of the lead melody.
 
 ## Stage 3
-Integrate the drone bass into the track now, use it to fill out the track, and bring the level of the percussion up. Keep pushing the percussion until it takes over most of the track. When nearing the end of the track, cut all sound but the drone bass. Keep that going for a bit, cut the bass out as well.
 
-This stage should last for the remainder of the piece. With the single drone bass taking up roughly 5-10 seconds of a 90 second recording
-
-Congratulations, the track is complete.
+This stage, explores less volume of the lead melody and volumes of mixer 1-4 and 6 (drone bass) was increased. Along that, the pan knob of these mixers were being changed and at right about the last 10 seconds of this stage all the percussions of mixer 1-4 were turned off and you can only hear the sound of mixer 6.
